@@ -1,0 +1,28 @@
+{
+  "name": "adventure-stream",
+  "version": "0.1.0",
+  "description": "stream-adventure solutions",
+  "main": "none",
+  "dependencies": {
+    "through": "^2.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhenriquez/adventure-stream"
+  },
+  "keywords": [
+    "stream",
+    "nodejs",
+    "stream-adventure"
+  ],
+  "author": "Julio Henriquez",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/jhenriquez/adventure-stream/issues"
+  },
+  "homepage": "https://github.com/jhenriquez/adventure-stream"
+}
