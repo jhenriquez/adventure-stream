@@ -5,6 +5,7 @@
   "main": "none",
   "dependencies": {
     "concat-stream": "^1.4.7",
+    "request": "^2.49.0",
     "split": "^0.3.2",
     "through": "^2.3.6"
   },
